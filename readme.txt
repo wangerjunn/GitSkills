@@ -1,1 +1,1 @@
-Git is a distributed version contol system.
+Git is a very  distributed version contol system.
